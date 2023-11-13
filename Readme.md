@@ -5,17 +5,17 @@
 
 #### Created by me,
 
-* [Splash Screen](./.local/share/plasma/look-and-feel)
+- [Splash Screen](./.local/share/plasma/look-and-feel)
   - DamsakSplash
-* [Plasma Themes](./.local/share/plasma/desktoptheme/)
+- [Plasma Themes](./.local/share/plasma/desktoptheme/)
   - [X] Willow Spectrum Colloid
   - [ ] Willow Spectrum Customized
-* [Icon Themes](./.local/share/icons/)
+- [Icon Themes](./.local/share/icons/)
   - [X] BreezeSur-11
   - [ ] BreezeSur-11-Winbuttons
-* [Dynamic Wallpapers](./.local/share/wallpapers/)
+- [Dynamic Wallpapers](./.local/share/wallpapers/)
   - Ventura
-* Other Data
+- Other Data
   - [Menu Icon](./.data/Themming/Menu-icon/)
   - [Other Icons](./.data/Themming/Other-icons/)
   - [Scripts](./.data/Themming/Scripts/)
@@ -27,4 +27,23 @@
 
 #
 
-* [X] = Currently Using
+### Other Stuff
+
+- Color Themes
+  - [KDE Material You Colors](https://github.com/luisbocanegra/kde-material-you-colors)
+  - [Koi](https://github.com/baduhai/Koi)
+- Rounded Window Corners
+  - [X] [LightlyShaders](https://github.com/a-parhom/LightlyShaders)
+  - [ ] [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners)
+- Application Style
+  - [Lightly](https://github.com/boehs/Lightly)
+- Window Decorations
+  - [Klassy](https://github.com/paulmcauley/klassy)
+- Kwin Scripts
+  - [Dynamic Workspaces](https://github.com/d86leader/dynamic_workspaces)
+  - [Pannel Auto Hide](https://github.com/luisbocanegra/kwin-panel-auto-hide)
+  - [Panel Spacer Extended](https://github.com/luisbocanegra/plasma-panel-spacer-extended)
+
+#
+
+- [X] = Currently Using
