@@ -3,7 +3,7 @@
 
 ### Table of Content
 
-#### Created by me,
+#### Created/Customized by me,
 
 - [Splash Screen](./.local/share/plasma/look-and-feel)
   - DamsakSplash
