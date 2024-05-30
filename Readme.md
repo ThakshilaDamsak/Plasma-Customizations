@@ -9,8 +9,9 @@
   - [x] SerenitySplash (Plasma 6)
   - [ ] DamsakSplash (Plasma 5)
 - [Plasma Themes](./.local/share/plasma/desktoptheme/)
-  - Willow Spectrum Colloid
-  - Willow Spectrum Customized
+  - [x] Willow Spectrum Customized v2
+  - [ ] Willow Spectrum Colloid
+  - [ ] Willow Spectrum Customized
 - [Icon Themes](./.local/share/icons/)
   - BreezeSur-11
   - BreezeSur-11-Winbuttons
@@ -47,4 +48,4 @@
 
 #
 
-- [X] = Currently Using
+- [X] = Currently Using (Plasma 6)
