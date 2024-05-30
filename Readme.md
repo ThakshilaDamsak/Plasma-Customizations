@@ -23,13 +23,13 @@
   - SerenityDecorations
   - SerenityDecorations-NoBorder
 - Others
-  - [Menu Icon](./.data/Themming/Menu-icon/)
-  - [Other Icons](./.data/Themming/Other-icons/)
-  - [Scripts](./.data/Themming/Scripts/)
+  - [Menu Icon](./.data/Theming/Menu-icon/)
+  - [Other Icons](./.data/Theming/Other-icons/)
+  - [Scripts](./.data/Theming/Scripts/)
 
 #### Curated by me,
 
-- [Wallpapers](./.data/Themming/Wallpapers/)
+- [Wallpapers](./.data/Theming/Wallpapers/)
   - Slideshow
 
 #
