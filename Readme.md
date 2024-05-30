@@ -18,8 +18,11 @@
 - [Dynamic Wallpapers](./.local/share/wallpapers/)
   - Ventura
 - [Plasma-Panel-Colorizer Config](./.config/panel-colorizer/)
-  - Serenity
-- Other Data
+  - SerenityPanel
+- [Klassy Themes](./klassy-themes/)
+  - SerenityDecorations
+  - SerenityDecorations-NoBorder
+- Others
   - [Menu Icon](./.data/Themming/Menu-icon/)
   - [Other Icons](./.data/Themming/Other-icons/)
   - [Scripts](./.data/Themming/Scripts/)
