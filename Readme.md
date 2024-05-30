@@ -34,8 +34,8 @@
   - [KDE Material You Colors](https://github.com/luisbocanegra/kde-material-you-colors)
   - [Koi](https://github.com/baduhai/Koi)
 - Rounded Window Corners
-  - [X] [LightlyShaders](https://github.com/a-parhom/LightlyShaders)
-  - [ ] [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners)
+  - [LightlyShaders](https://github.com/a-parhom/LightlyShaders)
+  - [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners)
 - Application Style
   - [Lightly](https://github.com/boehs/Lightly)
 - Window Decorations
