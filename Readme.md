@@ -39,14 +39,19 @@
 - Rounded Window Corners
   - [LightlyShaders](https://github.com/a-parhom/LightlyShaders)
   - [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners)
-- Application Style
-  - [Lightly](https://github.com/boehs/Lightly)
 - Window Decorations
   - [Klassy](https://github.com/paulmcauley/klassy)
+- Application Style
+  - Klassy
+  - [Lightly](https://github.com/boehs/Lightly)
 - Kwin Scripts
   - [Dynamic Workspaces](https://github.com/d86leader/dynamic_workspaces)
   - [Pannel Auto Hide](https://github.com/luisbocanegra/kwin-panel-auto-hide)
   - [Panel Spacer Extended](https://github.com/luisbocanegra/plasma-panel-spacer-extended)
+- Blur
+  - [Kwin-Effects-Forceblur](https://github.com/taj-ny/kwin-effects-forceblur)
+- Panel Customizations
+  - [Plasma-Panel-Colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer)
 
 #
 
