@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "thakshiladamsak@hotmail.com, l4k1987@gmail.com",
+                "Name": "Thakshila Damsak, adhe, l4k1"
+
+            }
+        ],
+        "Category": "Custom",
+        "Description": "Custom splash screen for Serenity (Plasma6)",
+        "Id": "SerenitySplash",
+        "License": "GPLv2+",
+        "Name": "SerenitySplash",
+        "Website": "https://thakshiladamsak.github.io"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
