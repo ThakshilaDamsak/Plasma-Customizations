@@ -6,13 +6,14 @@
 #### Created/Customized by me,
 
 - [Splash Screen](./.local/share/plasma/look-and-feel)
-  - DamsakSplash
+  - [x] SerenitySplash (Plasma 6)
+  - [ ] DamsakSplash (Plasma 5)
 - [Plasma Themes](./.local/share/plasma/desktoptheme/)
-  - [X] Willow Spectrum Colloid
-  - [ ] Willow Spectrum Customized
+  - Willow Spectrum Colloid
+  - Willow Spectrum Customized
 - [Icon Themes](./.local/share/icons/)
-  - [X] BreezeSur-11
-  - [ ] BreezeSur-11-Winbuttons
+  - BreezeSur-11
+  - BreezeSur-11-Winbuttons
 - [Dynamic Wallpapers](./.local/share/wallpapers/)
   - Ventura
 - Other Data
