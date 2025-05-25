@@ -18,7 +18,9 @@
 - [Dynamic Wallpapers](./.local/share/wallpapers/)
   - Ventura
 - [Plasma-Panel-Colorizer Config](./.config/panel-colorizer/)
-  - SerenityPanel
+  - [Serenity-Floating](./.config/panel-colorizer/presets/Serenity-Floating/)
+  - [Serenity-non-Floating](./.config/panel-colorizer/presets/Serenity-non-Floating/)
+  - SerenityPanel (Outdated)
 - [Klassy Themes](./klassy-themes/)
   - SerenityDecorations
   - SerenityDecorations-NoBorder
