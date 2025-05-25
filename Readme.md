@@ -49,6 +49,7 @@
 - Application Style
   - Klassy
   - [Lightly](https://github.com/boehs/Lightly)
+  - [Darkly](https://github.com/Bali10050/Darkly)
 - Kwin Scripts
   - [Dynamic Workspaces](https://github.com/d86leader/dynamic_workspaces)
   - [Pannel Auto Hide](https://github.com/luisbocanegra/kwin-panel-auto-hide)
