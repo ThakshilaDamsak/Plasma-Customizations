@@ -18,8 +18,8 @@
 - [Dynamic Wallpapers](./.local/share/wallpapers/)
   - Ventura
 - [Plasma-Panel-Colorizer Config](./.config/panel-colorizer/)
-  - [Serenity-Floating](./.config/panel-colorizer/presets/Serenity-Floating/)
-  - [Serenity-non-Floating](./.config/panel-colorizer/presets/Serenity-non-Floating/)
+  - Serenity-Floating
+  - Serenity-non-Floating
   - SerenityPanel (Outdated)
 - [Klassy Themes](./klassy-themes/)
   - SerenityDecorations
