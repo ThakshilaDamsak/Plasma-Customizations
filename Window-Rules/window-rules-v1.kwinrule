@@ -1,0 +1,95 @@
+[Application settings for dev.warp.Warp]
+Description=Application settings for dev.warp.Warp
+clientmachine=localhost
+noborderrule=2
+opacityactive=75
+opacityinactive=75
+title=Settings - VSCodium
+windowrole=browser-window
+wmclass=dev.warp.Warp
+wmclassmatch=1
+
+[Application settings for org.kde.plasma-systemmonitor]
+Description=Application settings for org.kde.plasma-systemmonitor
+opacityactive=85
+opacityactiverule=2
+wmclass=plasma-systemmonitor org.kde.plasma-systemmonitor
+wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for vivaldi-stable]
+Description=Application settings for vivaldi-stable
+noborderrule=3
+wmclass=vivaldi-stable
+wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for xdman-Main]
+Description=Application settings for xdman-Main
+clientmachine=localhost
+noborderrule=2
+opacityactive=80
+opacityactiverule=2
+opacityinactive=80
+opacityinactiverule=2
+title=Settings - VSCodium
+windowrole=browser-window
+wmclass=xdman-Main
+wmclassmatch=1
+
+[Application settings for zen]
+Description=Application settings for zen
+desktopfile=zen-browser
+desktopfilerule=3
+wmclass=zen-bin zen
+wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for zen-beta]
+Description=Application settings for zen-beta
+desktopfile=zen-browser
+desktopfilerule=3
+wmclass=zen-bin zen-beta
+wmclasscomplete=true
+wmclassmatch=1
+
+[Window settings for VSCodium]
+Description=Window settings for VSCodium
+clientmachine=localhost
+noborderrule=2
+opacityactive=90
+opacityactiverule=2
+title=Settings - VSCodium
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=vscodium VSCodium
+wmclasscomplete=true
+wmclassmatch=1
+
+[Window settings for dev.warp.Warp]
+Description=Window settings for dev.warp.Warp
+noborderrule=2
+title=~/D/.D/Gits
+types=1
+wmclass=warp dev.warp.Warp
+wmclasscomplete=true
+wmclassmatch=1
+
+[Window settings for org.kde.dolphin]
+Description=Window settings for org.kde.dolphin
+noborderrule=3
+title=color-schemes — Dolphin
+types=1
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[Window settings for spotify-qt]
+Description=Window settings for spotify-qt
+noborderrule=2
+title=spotify-qt
+titlematch=1
+types=1
+wmclass=spotify-qt
+wmclassmatch=1

@@ -22,12 +22,15 @@
   - Serenity-non-Floating
   - SerenityPanel (Outdated)
 - [Klassy Themes](./klassy-themes/)
-  - SerenityDecorations
-  - SerenityDecorations-NoBorder
+  - [ ] SerenityDecorations
+  - [ ] SerenityDecorations-NoBorder
+  - [x] Serenity-v4
+  - Klassy-Window-Specifc-Rules
 - Others
   - [Menu Icon](./.data/Theming/Menu-icon/)
   - [Other Icons](./.data/Theming/Other-icons/)
   - [Scripts](./.data/Theming/Scripts/)
+  - [Kwin Window Rules](./Window-Rules/)
 
 #### Curated by me,
 
