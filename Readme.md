@@ -19,10 +19,10 @@
 - [Dynamic Wallpapers](./.local/share/wallpapers/)
   - Ventura
 - [Plasma-Panel-Colorizer Config](./.config/panel-colorizer/)
-  - Serenity Willow
-  - Serenity-Floating
-  - Serenity-non-Floating
-  - SerenityPanel (Outdated)
+  - [x] Serenity Willow
+  - [ ] Serenity-Floating
+  - [ ] Serenity-non-Floating
+  - [ ] SerenityPanel (Outdated)
 - [Klassy Themes](./klassy-themes/)
   - [ ] SerenityDecorations
   - [ ] SerenityDecorations-NoBorder
