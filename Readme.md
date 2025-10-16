@@ -9,7 +9,8 @@
   - [x] SerenitySplash (Plasma 6)
   - [ ] DamsakSplash (Plasma 5)
 - [Plasma Themes](./.local/share/plasma/desktoptheme/)
-  - [x] Willow Spectrum Customized v2
+  - [x] Willow Spectrum Customized v3
+  - [ ] Willow Spectrum Customized v2
   - [ ] Willow Spectrum Colloid
   - [ ] Willow Spectrum Customized
 - [Icon Themes](./.local/share/icons/)
@@ -18,6 +19,7 @@
 - [Dynamic Wallpapers](./.local/share/wallpapers/)
   - Ventura
 - [Plasma-Panel-Colorizer Config](./.config/panel-colorizer/)
+  - Serenity Willow
   - Serenity-Floating
   - Serenity-non-Floating
   - SerenityPanel (Outdated)
@@ -31,6 +33,7 @@
   - [Other Icons](./.data/Theming/Other-icons/)
   - [Scripts](./.data/Theming/Scripts/)
   - [Kwin Window Rules](./Window-Rules/)
+  - [Klassy Config](./.config/klassy/)
 
 #### Curated by me,
 
