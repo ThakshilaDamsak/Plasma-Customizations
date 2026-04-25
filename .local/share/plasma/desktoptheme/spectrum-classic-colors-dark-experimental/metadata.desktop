@@ -1,0 +1,25 @@
+[ContrastEffect]
+contrast=1.2
+enabled=true
+intensity=1.3
+saturation=1.5
+
+[Desktop Entry]
+Comment=Experimental customized dark-mode-only version of Spectrum Classic Colors.
+Name=Spectrum Classic Colors Dark Experimental
+X-KDE-PluginInfo-Author=doncsugar, thakshiladamsak
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=spectrum-classic-colors
+X-KDE-PluginInfo-Version=1.2
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWallpaperTheme=Next
+defaultWidth=1920

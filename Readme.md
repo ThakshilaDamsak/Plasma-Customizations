@@ -8,8 +8,12 @@
 - [Splash Screen](./.local/share/plasma/look-and-feel)
   - [x] SerenitySplash (Plasma 6)
   - [ ] DamsakSplash (Plasma 5)
+- [Plymouth Themes](./usr/share/plymouth/themes/)
+  - Spinner-serenity
 - [Plasma Themes](./.local/share/plasma/desktoptheme/)
-  - [x] Willow Spectrum Customized v3
+  - [x] Spectrum Classic Colors Dark Experimental
+<br><small style="color:gray">Plasma 6.6 or whatever somehow broke the below themes on light mode.</small>
+  - [ ] Willow Spectrum Customized v3
   - [ ] Willow Spectrum Customized v2
   - [ ] Willow Spectrum Colloid
   - [ ] Willow Spectrum Customized
@@ -26,7 +30,8 @@
 - [Klassy Themes](./klassy-themes/)
   - [ ] SerenityDecorations
   - [ ] SerenityDecorations-NoBorder
-  - [x] Serenity-v4
+  - [ ] Serenity-v4
+  - [x] Serenity-v7
   - Klassy-Window-Specifc-Rules
 - Others
   - [Menu Icon](./.data/Theming/Menu-icon/)
@@ -61,7 +66,9 @@
   - [Pannel Auto Hide](https://github.com/luisbocanegra/kwin-panel-auto-hide)
   - [Panel Spacer Extended](https://github.com/luisbocanegra/plasma-panel-spacer-extended)
 - Blur
-  - [Kwin-Effects-Forceblur](https://github.com/taj-ny/kwin-effects-forceblur)
+  - [Kwin-Effects-Glass](https://github.com/4v3ngR/kwin-effects-glass)
+  - [Kwin-Effects-Betterblur-DX](https://github.com/xarblu/kwin-effects-better-blur-dx)
+  - [Kwin-Effects-Forceblur](https://github.com/taj-ny/kwin-effects-forceblur) (Archived. Use a fork like the above ones.)
 - Panel Customizations
   - [Plasma-Panel-Colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer)
 
