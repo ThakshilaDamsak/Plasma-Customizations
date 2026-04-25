@@ -12,7 +12,7 @@
   - Spinner-serenity
 - [Plasma Themes](./.local/share/plasma/desktoptheme/)
   - [x] Spectrum Classic Colors Dark Experimental
-<br><small style="color:gray">Plasma 6.6 or whatever somehow broke the below themes on light mode.</small>
+<br><sub>Plasma 6.6 or whatever somehow broke the themes below.</sub>
   - [ ] Willow Spectrum Customized v3
   - [ ] Willow Spectrum Customized v2
   - [ ] Willow Spectrum Colloid
