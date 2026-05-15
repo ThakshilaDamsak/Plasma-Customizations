@@ -53,12 +53,13 @@
   - [KDE Material You Colors](https://github.com/luisbocanegra/kde-material-you-colors)
   - [Koi](https://github.com/baduhai/Koi)
 - Rounded Window Corners
+  - [Klassy](https://github.com/paulmcauley/klassy)
   - [LightlyShaders](https://github.com/a-parhom/LightlyShaders)
   - [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners)
 - Window Decorations
   - [Klassy](https://github.com/paulmcauley/klassy)
 - Application Style
-  - Klassy
+  - [Klassy](https://github.com/paulmcauley/klassy)
   - [Lightly](https://github.com/boehs/Lightly)
   - [Darkly](https://github.com/Bali10050/Darkly)
 - Kwin Scripts
@@ -74,4 +75,4 @@
 
 #
 
-- [X] = Currently Using (Plasma 6)
+- [X] = Currently Using/Recently Used
